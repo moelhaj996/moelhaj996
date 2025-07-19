@@ -39,14 +39,10 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/moelhaj996" target="_blank">
+  <a href="www.linkedin.com/in/mohamed-elnaim-3b0bb318b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
-  <a href="https://twitter.com/moelhaj996" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
-  </a>
-  <a href="https://dev.to/moelhaj996" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="25" />
+  
   </a>
 </div>
 
