@@ -38,13 +38,12 @@
 
 ### 🌐 Let's Connect
 
+### 🌐 Let's Connect
+
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-elnaim-3b0bb318b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  
-  </a>
+  <a href="https://www.linkedin.com/in/mohamed-elnaim-3b0bb318b" target="_blank">LinkedIn Profile</a>
 </div>
+
 
 ---
 
