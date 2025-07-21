@@ -37,13 +37,11 @@
 ---
 
 ### 🌐 Let's Connect
-
-### 🌐 Let's Connect
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elnaim-3b0bb318b" target="_blank">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/mohamed-elnaim-3b0bb318b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
 </div>
-
 
 ---
 
